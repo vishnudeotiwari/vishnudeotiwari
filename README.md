@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**vishnudeotiwari/vishnudeotiwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋 I'm Vishnu Tiwari
 
-Here are some ideas to get you started:
+## Solution Architect | Java Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+18+ years of experience building enterprise applications.
+
+### Skills
+
+- Java
+- Spring Boot
+- Microservices
+- Kubernetes
+- Docker
+- Kafka
+- RabbitMQ
+- AWS
+
+### Currently Learning
+
+- Argo CD
+- Rancher
+- AI Engineering
+
+### Featured Projects
+
+- Wallet Microservices
+- Kubernetes Labs
+- Kafka Examples
+
+### Connect
+vishnu.coder@gmail.com
