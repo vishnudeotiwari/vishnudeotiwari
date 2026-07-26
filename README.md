@@ -6,6 +6,8 @@
 
 18+ years of experience building enterprise applications.
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishnudeotiwari&show_icons=true)
+
 ### Skills
 
 - Java
