@@ -23,11 +23,5 @@
 - Rancher
 - AI Engineering
 
-### Featured Projects
-
-- Wallet Microservices
-- Kubernetes Labs
-- Kafka Examples
-
 ### Connect
 vishnu.coder@gmail.com
